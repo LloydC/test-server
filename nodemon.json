@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "lloydchambrier",
+        "MONGO_PASSWORD": "2wMTN6RZ%40çdqux2L",
+        "MONGO_DB": "events-react-app",
+        "JWT_SECRET":"hashingIsKey"
+    }
+}
